@@ -1,0 +1,12 @@
+package Aleatorio;
+
+public class Aleatoria {
+	
+	public static void main(String[] args) {
+		String Aleatorio;
+		for (int i = 0; i < 20; i++) {
+			String aleatorioString;
+			
+		}
+	}
+}

@@ -1,0 +1,21 @@
+package matrizes;
+
+import java.util.Scanner;
+
+public class Program {
+	
+	public static void main(String[] args) {
+	Scanner inString = new Scanner(System.in);
+	Scanner inNumber = new Scanner(System.in);
+	
+		
+	
+	
+	
+	
+		
+	inString.close();
+	inNumber.close();
+	}
+
+}

@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lealm
+ *
+ */
+module Herance {
+}
