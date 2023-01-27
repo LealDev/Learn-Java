@@ -11,4 +11,5 @@
     <fullyQualifiedTypeName name="model.service.OnlinePaymentService"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="model.service.ContractService"/>
+    <fullyQualifiedTypeName name="model.service.PaypalService"/>
 </qualifiedTypeNameHistroy>
